@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Десять негритят",
+    "is_favorite":0,
+    "id": "1",
+    "rating":0,
+    "author": "Агата Кристи",
+    "year": "2021",
+    "publisher": "Эксмо",
+    "img":"https://www.stroyportal.ru/media/cache/companies/179468/products/687200976/15006295_small_mobile_image.jpg"
+  },
+  {
+    "title": "Повесть о настоящем человеке",
+    "is_favorite":0,
+    "rating":0,
+    "id": "2",
+    "author": "Б.Полевой",
+    "year": "2019",
+    "publisher": "АСТ",
+    "img":"https://salon-oboev.ru/files/products/thumb250/as-creation/esprit-home-9/150013-93993_7.jpg"
+  },
+  {
+    "title": "Герой нашего времени",
+    "is_favorite":0,
+    "rating": 0,
+    "id": "3",
+    "author": "М.Ю.Лермонтов",
+    "year": "2017",
+    "publisher": "АСТ",
+    "img":"https://salon-oboev.ru/files/products/thumb250/as-creation/colourfast/151109-95960_8.jpg"
+   }
+]
